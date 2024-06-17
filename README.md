@@ -1,1 +1,1 @@
-# DataHack-2024-IIT-Guwahati
+# DataHack 2024 by IIT Guwahati
